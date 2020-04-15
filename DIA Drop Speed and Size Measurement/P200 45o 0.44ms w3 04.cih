@@ -1,0 +1,139 @@
+#Camera Information Header
+Date : 2020/4/15
+Time : 13:49
+Camera Type : Unknown
+Head Type : Unknown
+Camera ID : 0
+Camera Number : 0
+Head Number : 0
+Max Head Number : 0
+Scene Name : 
+User Defined Camera Name : 
+Session Number : 
+Record Rate(fps) : 30
+Shutter Speed(s) : 1/30
+Trigger Mode : Start
+Original Total Frame : 577
+Total Frame : 268
+Start Frame : 142
+Correct Trigger Frame : 1
+Save Step : 1
+Image Width : 704
+Image Height : 520
+Color Type : Mono
+Color Bit : 8
+File Format : Avi
+CODEC Type : No Compress
+EffectiveBit Depth : 8
+EffectiveBit Side : Higher
+Digits Of File Number : 6
+Comment Text : 
+Edge Enhance : 0
+Scale Method : 0
+Scale Grid Space : 10
+Scale Pixel Size : 1.0000
+Scale Unit : 0
+Scale Magnification : 1.0000
+Scale Ruler : 10
+Scale Distance : 1.0000
+Scale 2Points Distance: 1.0000
+Polarization : 0
+Pola Config : 0
+Pola Save Kind : 0
+Pola Save Comment : 
+Not Use : 
+Not Use : 
+Not Use : 
+
+#Photron Fastcam Viewer Version Information (Resave):
+Saved Date : 2020/4/15
+Saved Time : 13:50
+PFV.exe : 3, 2, 8, 2
+1024PCIInst.exe : 1.1.0.0
+512PCIInst.exe : 1.1.0.0
+D1024PCI.dll : 1, 0, 3, 1
+D512PCI.dll : 1, 0, 2, 1
+DAPX.dll : 1, 0, 2, 3
+DAPXRS.dll : 1, 0, 4, 1
+DBC2.dll : 1, 0, 1, 2
+DMC1.dll : 1, 0, 2, 9
+DMH4.dll : 1, 0, 3, 3
+DSA1.dll : 1, 0, 5, 2
+DSA2.dll : 1, 0, 3, 6
+DSA3.dll : 1, 0, 4, 5
+DSA4.dll : 1, 0, 1, 1
+DSA5.dll : 1, 0, 2, 9
+DSAX.dll : 1, 0, 0, 9
+DUL512.dll : 1, 0, 2, 5
+GEthLib.dll : 0, 1, 2, 1
+I1394.dll : 1, 0, 0, 6
+IGETHER.dll : 1, 0, 1, 6
+ijl20.dll : 2,0,18,50
+IOPTICAL.dll : 1, 0, 0, 6
+IPCI.dll : 1, 0, 0, 7
+ippcce9-6.1.dll : 6,1,137,734
+ippccem64t-6.1.dll : 6,1,137,734
+ippccm7-6.1.dll : 6,1,137,734
+ippccmx-6.1.dll : 6,1,137,734
+ippccn8-6.1.dll : 6,1,137,734
+ippccu8-6.1.dll : 6,1,137,734
+ippccy8-6.1.dll : 6,1,137,734
+ippcoreem64t-6.1.dll : 6,1,137,790
+ippcve9-6.1.dll : 6,1,137,811
+ippcvem64t-6.1.dll : 6,1,137,811
+ippcvm7-6.1.dll : 6,1,137,811
+ippcvmx-6.1.dll : 6,1,137,811
+ippcvn8-6.1.dll : 6,1,137,811
+ippcvu8-6.1.dll : 6,1,137,811
+ippcvy8-6.1.dll : 6,1,137,811
+ippie9-6.1.dll : 6,1,137,825
+ippiem64t-6.1.dll : 6,1,137,825
+ippim7-6.1.dll : 6,1,137,825
+ippimx-6.1.dll : 6,1,137,825
+ippin8-6.1.dll : 6,1,137,825
+ippiu8-6.1.dll : 6,1,137,825
+ippiy8-6.1.dll : 6,1,137,825
+ippje9-6.1.dll : 6,1,137,803
+ippjem64t-6.1.dll : 6,1,137,803
+ippjm7-6.1.dll : 6,1,137,803
+ippjmx-6.1.dll : 6,1,137,803
+ippjn8-6.1.dll : 6,1,137,803
+ippju8-6.1.dll : 6,1,137,803
+ippjy8-6.1.dll : 6,1,137,803
+ippsce9-6.1.dll : 6,1,137,798
+ippscem64t-6.1.dll : 6,1,137,798
+ippscm7-6.1.dll : 6,1,137,798
+ippscmx-6.1.dll : 6,1,137,798
+ippscn8-6.1.dll : 6,1,137,798
+ippscu8-6.1.dll : 6,1,137,798
+ippscy8-6.1.dll : 6,1,137,798
+ippse9-6.1.dll : 6,1,137,827
+ippsem64t-6.1.dll : 6,1,137,827
+ippsm7-6.1.dll : 6,1,137,827
+ippsmx-6.1.dll : 6,1,137,827
+ippsn8-6.1.dll : 6,1,137,827
+libguide40.dll : 20071022
+libiomp5md.dll : 20071022
+libpng13.dll : 1.2.10
+PDCLIB.dll : 1, 0, 9, 4
+PDCPOLA.dll : 1, 0, 1, 0
+PICLIB.dll : 1, 0, 4, 7
+PluginCamera.dll : 1.2.8.2
+PluginDataSave.dll : 1.2.8.2
+PluginFileView.dll : 1.2.8.2
+zlib1.dll : 1.2.3
+PluginAngle.pdll : 1.1.9.3
+PluginBatchDataConverter.pdll : 1.0.0.3
+PluginComm.pdll : 1.0.1.1
+PluginDistance.pdll : 1.1.9.3
+PluginHistogram.pdll : 1, 0, 4, 7
+PluginLineProfile.pdll : 1, 0, 2, 3
+PluginPolarization.pdll : 1.0.0.7
+
+#System Information:
+OS :  Professional (x64)   (version 6.2 Build 9200)
+Memory : 8089MB RAM
+Processor : Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz
+DirectX : DirectX 12
+
+END

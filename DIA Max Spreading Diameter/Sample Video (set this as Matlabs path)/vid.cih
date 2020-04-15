@@ -1,0 +1,280 @@
+#Camera Information Header
+Date : 2017/3/21
+Time : 00:-1
+Camera Type : FASTCAM SA5 model 1000K-M1
+Head Type : Unknown Child Device
+Camera ID : 10
+Camera Number : 0
+Head Number : 1
+Max Head Number : 1
+Scene Name : 
+User Defined Camera Name : 
+Session Number : 
+Record Rate(fps) : 20000
+Shutter Speed(s) : 1/40000
+Trigger Mode : Start
+Original Total Frame : 191
+Total Frame : 87
+Start Frame : 1071
+Correct Trigger Frame : 1
+Save Step : 1
+Image Width : 432
+Image Height : 363
+Color Type : Mono
+Color Bit : 8
+File Format : TIFF
+EffectiveBit Depth : 12
+EffectiveBit Side : Higher
+Digits Of File Number : 6
+Comment Text : 
+Zero Frame : Exist
+Shutter Type2(nsec) : 25238
+Edge Enhance : 0
+Pre LUT Mode : DEF1
+Pre LUT Brightness : 0
+Pre LUT Contrast : 0
+Pre LUT Gain : 1.0
+Pre LUT Gamma : 1.00
+Pre LUT PosiNega : Posi
+DS Shutter : Value 0
+Scale Method : 1
+Scale Grid Space : 10
+Scale Pixel Size : 0.0352
+Scale Unit : 0
+Scale Magnification : 1.0000
+Scale Ruler : 10
+Scale Distance : 10.0000
+Scale 2Points Distance: 284.0070
+Polarization : 0
+Pola Config : 0
+Pola Save Kind : 0
+Pola Save Comment : 
+Not Use : 
+Not Use : 
+Not Use : 
+
+#Photron Fastcam Viewer Version Information (Resave):
+Saved Date : 2019/2/14
+Saved Time : 14:43
+PFV.exe : 3, 2, 8, 2
+1024PCIInst.exe : 1.1.0.0
+512PCIInst.exe : 1.1.0.0
+D1024PCI.dll : 1, 0, 3, 1
+D512PCI.dll : 1, 0, 2, 1
+DAPX.dll : 1, 0, 2, 3
+DAPXRS.dll : 1, 0, 4, 1
+DBC2.dll : 1, 0, 1, 2
+DMC1.dll : 1, 0, 2, 9
+DMH4.dll : 1, 0, 3, 3
+DSA1.dll : 1, 0, 5, 2
+DSA2.dll : 1, 0, 3, 6
+DSA3.dll : 1, 0, 4, 5
+DSA4.dll : 1, 0, 1, 1
+DSA5.dll : 1, 0, 2, 9
+DSAX.dll : 1, 0, 0, 9
+DUL512.dll : 1, 0, 2, 5
+GEthLib.dll : 0, 1, 2, 1
+I1394.dll : 1, 0, 0, 6
+IGETHER.dll : 1, 0, 1, 6
+ijl20.dll : 2,0,18,50
+IOPTICAL.dll : 1, 0, 0, 6
+IPCI.dll : 1, 0, 0, 7
+ippcce9-6.1.dll : 6,1,137,734
+ippccem64t-6.1.dll : 6,1,137,734
+ippccm7-6.1.dll : 6,1,137,734
+ippccmx-6.1.dll : 6,1,137,734
+ippccn8-6.1.dll : 6,1,137,734
+ippccu8-6.1.dll : 6,1,137,734
+ippccy8-6.1.dll : 6,1,137,734
+ippcoreem64t-6.1.dll : 6,1,137,790
+ippcve9-6.1.dll : 6,1,137,811
+ippcvem64t-6.1.dll : 6,1,137,811
+ippcvm7-6.1.dll : 6,1,137,811
+ippcvmx-6.1.dll : 6,1,137,811
+ippcvn8-6.1.dll : 6,1,137,811
+ippcvu8-6.1.dll : 6,1,137,811
+ippcvy8-6.1.dll : 6,1,137,811
+ippie9-6.1.dll : 6,1,137,825
+ippiem64t-6.1.dll : 6,1,137,825
+ippim7-6.1.dll : 6,1,137,825
+ippimx-6.1.dll : 6,1,137,825
+ippin8-6.1.dll : 6,1,137,825
+ippiu8-6.1.dll : 6,1,137,825
+ippiy8-6.1.dll : 6,1,137,825
+ippje9-6.1.dll : 6,1,137,803
+ippjem64t-6.1.dll : 6,1,137,803
+ippjm7-6.1.dll : 6,1,137,803
+ippjmx-6.1.dll : 6,1,137,803
+ippjn8-6.1.dll : 6,1,137,803
+ippju8-6.1.dll : 6,1,137,803
+ippjy8-6.1.dll : 6,1,137,803
+ippsce9-6.1.dll : 6,1,137,798
+ippscem64t-6.1.dll : 6,1,137,798
+ippscm7-6.1.dll : 6,1,137,798
+ippscmx-6.1.dll : 6,1,137,798
+ippscn8-6.1.dll : 6,1,137,798
+ippscu8-6.1.dll : 6,1,137,798
+ippscy8-6.1.dll : 6,1,137,798
+ippse9-6.1.dll : 6,1,137,827
+ippsem64t-6.1.dll : 6,1,137,827
+ippsm7-6.1.dll : 6,1,137,827
+ippsmx-6.1.dll : 6,1,137,827
+ippsn8-6.1.dll : 6,1,137,827
+libguide40.dll : 20071022
+libiomp5md.dll : 20071022
+libpng13.dll : 1.2.10
+PDCLIB.dll : 1, 0, 9, 4
+PDCPOLA.dll : 1, 0, 1, 0
+PICLIB.dll : 1, 0, 4, 7
+PluginCamera.dll : 1.2.8.2
+PluginDataSave.dll : 1.2.8.2
+PluginFileView.dll : 1.2.8.2
+zlib1.dll : 1.2.3
+PluginAngle.pdll : 1.1.9.3
+PluginBatchDataConverter.pdll : 1.0.0.3
+PluginComm.pdll : 1.0.1.1
+PluginDistance.pdll : 1.1.9.3
+PluginHistogram.pdll : 1, 0, 4, 7
+PluginLineProfile.pdll : 1, 0, 2, 3
+PluginPolarization.pdll : 1.0.0.7
+
+#System Information:
+OS : 0y Professional (x64)   (version 6.2 Build 9200)
+Memory : 8089MB RAM
+Processor : Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz
+DirectX : DirectX 12
+
+END
+
+#Photron Fastcam Viewer Version Information:
+Saved Date : 2017/3/21
+Saved Time : 16:58
+PFV.exe : 3.6.4.1
+1024PCIInst.exe : 1.1.0.0
+512PCIInst.exe : 1.1.0.0
+node.exe : 0.10.26
+D1024PCI.dll : 2.0.0.0
+D512PCI.dll : 2.0.0.0
+DAPX.dll : 2.0.0.0
+DAPXRS.dll : 2.0.0.0
+DAX.dll : 2.3.0.0
+DAX100.dll : 2.4.0.0
+DAX50.dll : 2.4.0.0
+DBC2.dll : 2.1.0.0
+DIDPEX.dll : 2.0.0.1
+DMC1.dll : 2.1.0.0
+DMH4.dll : 2.1.0.0
+DSA1.dll : 2.1.0.0
+DSA2.dll : 2.1.0.0
+DSA3.dll : 2.1.0.0
+DSA4.dll : 2.1.0.0
+DSA5.dll : 2.1.0.0
+DSA6.dll : 2.1.0.0
+DSA7.dll : 2.1.0.0
+DSA8.dll : 2.1.0.0
+DSAX.dll : 2.2.0.0
+DSAX_B.dll : 2.3.0.0
+DSAZ.dll : 2.3.0.0
+DTX.dll : 2.2.0.0
+DUL512.dll : 2.0.0.0
+DUX.dll : 2.3.0.0
+DUX50.dll : 2.3.0.0
+DWX.dll : 2.2.0.0
+DWX50.dll : 2.2.0.0
+FHSDLCTRL.dll : 1.2.0.0
+FSDCTRL.dll : 2.1.0.0
+GEthLib.dll : 2.0.0.1
+I1394.dll : 2.0.0.0
+IGETHER.dll : 2.0.0.1
+ijl20.dll : 2,0,18,50
+IOPTICAL.dll : 2.0.0.0
+IPCI.dll : 2.0.0.0
+ippcce9-6.1.dll : 6,1,137,734
+ippccem64t-6.1.dll : 6,1,137,734
+ippccm7-6.1.dll : 6,1,137,734
+ippccmx-6.1.dll : 6,1,137,734
+ippccn8-6.1.dll : 6,1,137,734
+ippccu8-6.1.dll : 6,1,137,734
+ippccy8-6.1.dll : 6,1,137,734
+ippcoreem64t-6.1.dll : 6,1,137,790
+ippcve9-6.1.dll : 6,1,137,811
+ippcvem64t-6.1.dll : 6,1,137,811
+ippcvm7-6.1.dll : 6,1,137,811
+ippcvmx-6.1.dll : 6,1,137,811
+ippcvn8-6.1.dll : 6,1,137,811
+ippcvu8-6.1.dll : 6,1,137,811
+ippcvy8-6.1.dll : 6,1,137,811
+ippie9-6.1.dll : 6,1,137,825
+ippiem64t-6.1.dll : 6,1,137,825
+ippim7-6.1.dll : 6,1,137,825
+ippimx-6.1.dll : 6,1,137,825
+ippin8-6.1.dll : 6,1,137,825
+ippiu8-6.1.dll : 6,1,137,825
+ippiy8-6.1.dll : 6,1,137,825
+ippje9-6.1.dll : 6,1,137,803
+ippjem64t-6.1.dll : 6,1,137,803
+ippjm7-6.1.dll : 6,1,137,803
+ippjmx-6.1.dll : 6,1,137,803
+ippjn8-6.1.dll : 6,1,137,803
+ippju8-6.1.dll : 6,1,137,803
+ippjy8-6.1.dll : 6,1,137,803
+ippsce9-6.1.dll : 6,1,137,798
+ippscem64t-6.1.dll : 6,1,137,798
+ippscm7-6.1.dll : 6,1,137,798
+ippscmx-6.1.dll : 6,1,137,798
+ippscn8-6.1.dll : 6,1,137,798
+ippscu8-6.1.dll : 6,1,137,798
+ippscy8-6.1.dll : 6,1,137,798
+ippse9-6.1.dll : 6,1,137,827
+ippsem64t-6.1.dll : 6,1,137,827
+ippsm7-6.1.dll : 6,1,137,827
+ippsmx-6.1.dll : 6,1,137,827
+ippsn8-6.1.dll : 6,1,137,827
+libguide40.dll : 20071022
+libiomp5md.dll : 20071022
+libpng12.dll : ???
+libpng13.dll : 1.2.12
+PDCLIB.dll : 2.3.0.0
+PDCPOLA.dll : 1, 0, 1, 0
+PICLIB.dll : 2.2.0.0
+PluginCamera.dll : 1.6.1.1
+PluginDataSave.dll : 1.6.1.1
+PluginFileView.dll : 1.6.1.1
+zlib.dll : 1.2.7
+zlib1.dll : 1.2.3
+PluginAngle.pdll : 2.0.0.0
+PluginBatchDataConverter.pdll : 2.0.0.0
+PluginComm.pdll : 2.0.0.0
+PluginCycleView.pdll : 2.1.0.0
+PluginDistance.pdll : 2.0.0.0
+PluginHDR.pdll : 2.0.0.0
+PluginHistogram.pdll : 2.0.0.0
+PluginLEDLaserControl.pdll : 2.0.0.0
+PluginLensControl.pdll : 2.0.0.1
+PluginLineProfile.pdll : 2.0.1.0
+PluginMobileServer.pdll : 2.0.0.0
+PluginMotionDetector.pdll : 2.0.0.0
+PluginPIVFocusMode.pdll : 2.0.0.0
+PluginPolarization.pdll : 2.0.0.0
+PluginPseudoColor.pdll : 2.0.0.0
+PluginSyncCamera.pdll : 2.0.0.0
+
+#System Information:
+OS : Windows 7 Professional (x64) Service Pack 1  (version 6.1 Build 7601)
+Memory : 3977MB RAM
+Processor : Intel(R) Core(TM) i5-4200M CPU @ 2.50GHz
+DirectX : DirectX 11
+
+#Device Information:
+Number of devices : 1
+
+#Device 1 (Current):
+Device Name : FASTCAM SA5 model 1000K-M1
+Device ID : 010
+Interface : Gigabit Ethernet
+IP Address : 192.168.0.10
+Subnet Mask : 255.255.255.0
+Gateway Address : 0.0.0.0
+Firmware : 3.10
+
+ENDÿÿ
